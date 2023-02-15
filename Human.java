@@ -1,8 +1,8 @@
 public class Human
 {
-	protected String nik;
-	protected String nama;
-	protected char jenis_kelamin;
+	private String nik;
+	private String nama;
+	private char jenis_kelamin;
 	
 	public Human(){
 	}
