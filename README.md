@@ -11,3 +11,7 @@ Saya Ihsan Ghozi Zulfikar NIM 2103303 mengerjakan soal Latihan Praktikum 2 dalam
 ### Kelas: Mahasiswa
 * inherit kelas SivitasAkademik karena mahasiswa adalah sivitas akademik
 * terdiri dari nim, fakultas, dan prodi
+
+## Dokumentasi
+### UML
+![uml_ss](https://user-images.githubusercontent.com/100748074/220234277-ff0f514d-d805-419c-a524-5f5b0a20b956.PNG)
